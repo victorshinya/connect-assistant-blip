@@ -1,0 +1,9 @@
+head, body {
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(to top right, #C44FF9, #595AD3);
+  background-attachment: fixed;
+}
